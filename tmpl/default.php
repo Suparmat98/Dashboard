@@ -2,5 +2,5 @@
 // No direct access
 defined('_JEXEC') or die; ?>
 <?php
-  getSites();
+  echo $sites;
 ?>
