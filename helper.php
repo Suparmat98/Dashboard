@@ -2,7 +2,7 @@
 class ModDashboardHelper
 {
      
-    public static function getSites($params)
+    public static function getSites()
     {
       define('API_KEY', 'df071b1cfaf900008702d26f2998d0bf');
       define('BASE_URL', 'https://app.watchful.li/api/v1');
